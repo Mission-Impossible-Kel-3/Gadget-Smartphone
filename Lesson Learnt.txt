@@ -1,0 +1,14 @@
+perintah scraping:
+-get_element_by_id
+-get_element_by_class_name
+-get_elements_by_class_name
+-get_element_by_xpath
+-get_element_by_css_selector
+
+lesson learnt:
+-using webdriver Chrome
+-pagination
+-scraping
+-getting source of image
+-text processing
+-splitting text
