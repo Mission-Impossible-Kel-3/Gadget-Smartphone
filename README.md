@@ -1,2 +1,2 @@
 # Gadget-Smartphone
-Gadget Smartphone ( Scraping from Lazada n Eraspace )
+Gadget Smartphone ( Scraping from JD.ID n Eraspace )
